@@ -14,7 +14,7 @@ export default {
       or: 'Ή',
       pageNotFound_title: 'Η σελίδα δεν βρέθηκε',
       password: 'Κωδικός',
-      poweredByPlanka: 'Με την υποστήριξη του <1>PLANKA</1>',
+      poweredByPlanka: 'Με την υποστήριξη του <1>Marks Plan</1>',
       serverConnectionFailed: 'Αποτυχία σύνδεσης με τον διακομιστή',
       unknownError: 'Άγνωστο σφάλμα, δοκιμάστε ξανά αργότερα',
       useSingleSignOn: 'Χρήση Single Sign-On',

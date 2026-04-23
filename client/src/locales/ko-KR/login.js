@@ -13,7 +13,7 @@ export default {
       or: '또는',
       pageNotFound_title: '페이지를 찾을 수 없음',
       password: '비밀번호',
-      poweredByPlanka: '<1>PLANKA</1>로 구동됨',
+      poweredByPlanka: '<1>Marks Plan</1>로 구동됨',
       serverConnectionFailed: '서버 연결 실패',
       unknownError: '알 수 없는 오류, 나중에 다시 시도하세요',
       useSingleSignOn: 'Single Sign-On(SSO) 사용',

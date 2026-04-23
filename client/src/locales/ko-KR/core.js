@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: '앱 소개',
-      aboutPlanka_title: 'PLANKA 소개',
+      aboutPlanka_title: 'Marks Plan 소개',
       accessToken: '액세스 토큰',
       account: '계정',
       actions: '작업',
@@ -136,8 +136,8 @@ export default {
       customFieldGroups_title: '사용자 정의 필드 그룹들',
       customField_title: '사용자 정의 필드',
       customFields_title: '사용자 정의 필드들',
-      discoverPlankaPro: '✨ 보드를 위한 더 많은 기능: PLANKA Pro 알아보기',
-      discoverPlankaPro_title: 'PLANKA Pro 알아보기',
+      discoverPlankaPro: '✨ 보드를 위한 더 많은 기능: Marks Plan Pro 알아보기',
+      discoverPlankaPro_title: 'Marks Plan Pro 알아보기',
       upgradeTeamToPro_title: '팀을 Pro로 업그레이드',
       proFeatureCalendar: '✨ 보드용 캘린더 뷰',
       proFeatureRecurringCards: '✨ 반복 카드 및 자동화',

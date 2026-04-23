@@ -139,8 +139,8 @@ export default {
       customFieldGroups_title: 'Skupiny vlastných polí',
       customField_title: 'Vlastné pole',
       customFields_title: 'Vlastné polia',
-      discoverPlankaPro: '✨ Viac funkcií pre vaše tabule: Objavte PLANKA Pro',
-      discoverPlankaPro_title: 'Objavte PLANKA Pro',
+      discoverPlankaPro: '✨ Viac funkcií pre vaše tabule: Objavte Marks Plan Pro',
+      discoverPlankaPro_title: 'Objavte Marks Plan Pro',
       upgradeTeamToPro_title: 'Inovovať tím na Pro',
       proFeatureCalendar: '✨ Zobrazenie kalendára pre vaše tabule',
       proFeatureRecurringCards: '✨ Opakujúce sa karty a automatizácia',
@@ -270,7 +270,7 @@ export default {
       passwordIsSet: 'Heslo je nastavené',
       phone: 'Telefón',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA používa <1><0>Apprise</0></1> na posielanie oznámení do viac ako 100 populárnych služieb.',
+        'Marks Plan používa <1><0>Apprise</0></1> na posielanie oznámení do viac ako 100 populárnych služieb.',
       port: 'Port',
       preferences: 'Voľby',
       pressPasteShortcutToAddAttachmentFromClipboard:

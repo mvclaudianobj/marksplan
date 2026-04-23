@@ -14,7 +14,7 @@ export default {
       or: 'O',
       pageNotFound_title: 'Página no encontrada',
       password: 'Contraseña',
-      poweredByPlanka: 'Desarrollado con <1>PLANKA</1>',
+      poweredByPlanka: 'Desarrollado con <1>Marks Plan</1>',
       serverConnectionFailed: 'Error de conexión con el servidor',
       unknownError: 'Error desconocido, inténtalo más tarde',
       useSingleSignOn: 'Usar inicio de sesión único',

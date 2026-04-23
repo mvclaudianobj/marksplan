@@ -16,7 +16,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'About the App',
-      aboutPlanka_title: 'About PLANKA',
+      aboutPlanka_title: 'About Marks Plan',
       accessToken: 'Access token',
       account: 'Account',
       actions: 'Actions',
@@ -140,8 +140,8 @@ export default {
       customFields_title: 'Custom Fields',
       customerPanel_title: 'Customer Panel',
       dangerZone_title: 'Danger Zone',
-      discoverPlankaPro: '✨ More features for your boards: Discover PLANKA Pro',
-      discoverPlankaPro_title: 'Discover PLANKA Pro',
+      discoverPlankaPro: '✨ More features for your boards: Discover Marks Plan Pro',
+      discoverPlankaPro_title: 'Discover Marks Plan Pro',
       dismissProBannerFor30Days: 'Dismiss for 30 days',
       upgradeTeamToPro_title: 'Upgrade Team to Pro',
       proFeatureCalendar: '✨ Calendar View for your boards',
@@ -269,7 +269,7 @@ export default {
       passwordIsSet: 'Password is set',
       phone: 'Phone',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA uses <1><0>Apprise</0></1> to send notifications to over 100 popular services.',
+        'Marks Plan uses <1><0>Apprise</0></1> to send notifications to over 100 popular services.',
       port: 'Port',
       preferences: 'Preferences',
       pressPasteShortcutToAddAttachmentFromClipboard:

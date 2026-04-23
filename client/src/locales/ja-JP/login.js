@@ -14,7 +14,7 @@ export default {
       or: 'または',
       pageNotFound_title: 'ページが見つかりません',
       password: 'パスワード',
-      poweredByPlanka: '<1>PLANKA</1>で動作',
+      poweredByPlanka: '<1>Marks Plan</1>で動作',
       serverConnectionFailed: 'サーバーの接続に失敗',
       unknownError: '不明なエラーです。後でもう一度試してください。',
       useSingleSignOn: 'SSOを使用',

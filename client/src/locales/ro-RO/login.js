@@ -14,7 +14,7 @@ export default {
       or: 'Sau',
       pageNotFound_title: 'Pagina n-a fost găsită',
       password: 'Parola',
-      poweredByPlanka: 'Susținut de <1>PLANKA</1>',
+      poweredByPlanka: 'Susținut de <1>Marks Plan</1>',
       serverConnectionFailed: 'Conexiunea la server a eșuat',
       unknownError: 'Eroarea necunoscuta, mai incercați',
       useSingleSignOn: 'Folosiți autentificarea unica',

@@ -14,7 +14,7 @@ export default {
       or: 'Или',
       pageNotFound_title: 'Страница није пронађена',
       password: 'Лозинка',
-      poweredByPlanka: 'Покреће <1>PLANKA</1>',
+      poweredByPlanka: 'Покреће <1>Marks Plan</1>',
       serverConnectionFailed: 'Неуспешна конекција са сервером',
       unknownError: 'Непозната грешка, покушајте поново касније',
       useSingleSignOn: 'Користи универзалну пријаву',

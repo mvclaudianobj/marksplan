@@ -14,7 +14,7 @@ export default {
       or: 'Або',
       pageNotFound_title: 'Сторінку не знайдено',
       password: 'Пароль',
-      poweredByPlanka: 'Працює на <1>PLANKA</1>',
+      poweredByPlanka: 'Працює на <1>Marks Plan</1>',
       serverConnectionFailed: 'Не вдалося підключитися до сервера',
       unknownError: 'Невідома помилка, спробуйте ще раз пізніше',
       useSingleSignOn: 'Використовувати одночасний вхід',

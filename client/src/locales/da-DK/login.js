@@ -14,7 +14,7 @@ export default {
       or: 'Eller',
       pageNotFound_title: 'Side ikke fundet',
       password: 'Adgangskode',
-      poweredByPlanka: 'Drevet af <1>PLANKA</1>',
+      poweredByPlanka: 'Drevet af <1>Marks Plan</1>',
       serverConnectionFailed: 'Ingen forbindelse til serveren',
       unknownError: 'Ukendt fejl - prøv igen',
       useSingleSignOn: 'Anvend single sign-on',

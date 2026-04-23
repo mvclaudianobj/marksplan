@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Uygulama hakkında',
-      aboutPlanka_title: 'PLANKA Hakkında',
+      aboutPlanka_title: 'Marks Plan Hakkında',
       accessToken: 'Erişim jetonu',
       account: 'Hesap',
       actions: 'Eylemler',
@@ -146,8 +146,8 @@ export default {
       customFieldGroups_title: 'özel alan grupları',
       customField_title: 'Özel alan',
       customFields_title: 'Özel alanlar',
-      discoverPlankaPro: "✨ Panolarınız için daha fazla özellik: PLANKA Pro'yu keşfedin",
-      discoverPlankaPro_title: "PLANKA Pro'yu keşfedin",
+      discoverPlankaPro: "✨ Panolarınız için daha fazla özellik: Marks Plan Pro'yu keşfedin",
+      discoverPlankaPro_title: "Marks Plan Pro'yu keşfedin",
       upgradeTeamToPro_title: "Ekibi Pro'ya yükseltin",
       proFeatureCalendar: '✨ Panolarınız için takvim görünümü',
       proFeatureRecurringCards: '✨ Yinelenen kartlar ve otomasyon',

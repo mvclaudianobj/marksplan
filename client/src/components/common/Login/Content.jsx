@@ -20,7 +20,7 @@ import { isUsername } from '../../../utils/validator';
 import AccessTokenSteps from '../../../constants/AccessTokenSteps';
 import TermsModal from './TermsModal';
 
-import logo from '../../../assets/images/logo.png';
+import logo from '../../../assets/images/logo_transp_marks.png';
 
 import styles from './Content.module.scss';
 
@@ -206,7 +206,7 @@ const Content = React.memo(() => {
               <Header
                 as="h1"
                 textAlign="center"
-                content={bootstrap.instanceName || 'PLANKA'}
+                content={bootstrap.instanceName || 'Marks Plan'}
                 className={styles.formTitle}
               />
               <Header
@@ -299,7 +299,7 @@ const Content = React.memo(() => {
               <p className={styles.poweredByText}>
                 <Trans i18nKey="common.poweredByPlanka">
                   {'Powered by '}
-                  <a href="https://github.com/plankanban/planka" target="_blank" rel="noreferrer">
+                  <a href="https://marks.ia.br" target="_blank" rel="noreferrer">
                     PLANKA
                   </a>
                 </Trans>

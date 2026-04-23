@@ -13,7 +13,7 @@ export default {
       or: 'Hoặc',
       pageNotFound_title: 'Không tìm thấy trang',
       password: 'Mật khẩu',
-      poweredByPlanka: 'Được phát triển bởi <1>PLANKA</1>',
+      poweredByPlanka: 'Được phát triển bởi <1>Marks Plan</1>',
       serverConnectionFailed: 'Không kết nối được tới máy chủ',
       unknownError: 'Lỗi không xác định, thử lại sau',
       useSingleSignOn: 'Sử dụng đăng nhập một lần (SSO)',

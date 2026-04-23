@@ -138,8 +138,8 @@ export default {
       customFieldGroups_title: 'Egyedi mezőcsoportok',
       customField_title: 'Egyedi mező',
       customFields_title: 'Egyedi mezők',
-      discoverPlankaPro: '✨ Több funkció a tábláidhoz: Fedezd fel a PLANKA Pro-t',
-      discoverPlankaPro_title: 'Fedezd fel a PLANKA Pro-t',
+      discoverPlankaPro: '✨ Több funkció a tábláidhoz: Fedezd fel a Marks Plan Pro-t',
+      discoverPlankaPro_title: 'Fedezd fel a Marks Plan Pro-t',
       upgradeTeamToPro_title: 'Csapat frissítése Pro-ra',
       proFeatureCalendar: '✨ Naptár nézet a tábláidhoz',
       proFeatureRecurringCards: '✨ Ismétlődő kártyák és automatizálás',
@@ -269,7 +269,7 @@ export default {
       passwordIsSet: 'Jelszó beállítva',
       phone: 'Telefon',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'A PLANKA az <1><0>Apprise</0></1> szolgáltatást használja több mint 100 népszerű szolgáltatás értesítéseinek küldésére.',
+        'A Marks Plan az <1><0>Apprise</0></1> szolgáltatást használja több mint 100 népszerű szolgáltatás értesítéseinek küldésére.',
       port: 'Port',
       preferences: 'Beállítások',
       pressPasteShortcutToAddAttachmentFromClipboard:

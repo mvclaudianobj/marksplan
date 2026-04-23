@@ -14,7 +14,7 @@ export default {
       or: 'Или',
       pageNotFound_title: 'Страницата не е намерена',
       password: 'Парола',
-      poweredByPlanka: 'Задвижвано от <1>PLANKA</1>',
+      poweredByPlanka: 'Задвижвано от <1>Marks Plan</1>',
       serverConnectionFailed: 'Неуспешна връзка със сървъра',
       unknownError: 'Неизвестна грешка, опитайте отново по-късно',
       useSingleSignOn: 'Използване на single sign-on',

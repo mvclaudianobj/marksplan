@@ -14,7 +14,7 @@ export default {
       or: 'Atau',
       pageNotFound_title: 'Halaman tidak ditemukan',
       password: 'Kata sandi',
-      poweredByPlanka: 'Didukung oleh <1>PLANKA</1>',
+      poweredByPlanka: 'Didukung oleh <1>Marks Plan</1>',
       serverConnectionFailed: 'Koneksi server gagal',
       unknownError: 'Kesalahan tidak diketahui, coba lagi nanti.',
       useSingleSignOn: 'Gunakan single sign-on',

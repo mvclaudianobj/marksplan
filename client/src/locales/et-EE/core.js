@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Rakenduse kohta',
-      aboutPlanka_title: 'PLANKA kohta',
+      aboutPlanka_title: 'Marks Plan kohta',
       accessToken: 'Juurdepääsuluba',
       account: 'Konto',
       actions: 'Tegevused',
@@ -144,8 +144,8 @@ export default {
       customFieldGroups_title: 'Kohandatud väljade grupid',
       customField_title: 'Kohandatud väli',
       customFields_title: 'Kohandatud väljad',
-      discoverPlankaPro: '✨ Rohkem funktsioone oma tahvlite jaoks: Avasta PLANKA Pro',
-      discoverPlankaPro_title: 'Avasta PLANKA Pro',
+      discoverPlankaPro: '✨ Rohkem funktsioone oma tahvlite jaoks: Avasta Marks Plan Pro',
+      discoverPlankaPro_title: 'Avasta Marks Plan Pro',
       upgradeTeamToPro_title: 'Uuenda meeskond Pro-ks',
       proFeatureCalendar: '✨ Kalendervaade oma tahvlite jaoks',
       proFeatureRecurringCards: '✨ Korduvad kaardid ja automatiseerimine',
@@ -275,7 +275,7 @@ export default {
       passwordIsSet: 'Parool on määratud',
       phone: 'Telefon',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA kasutab <1><0>Apprise</0></1> teavitusteenuse, et teavitada üle 100 populaarset teenust.',
+        'Marks Plan kasutab <1><0>Apprise</0></1> teavitusteenuse, et teavitada üle 100 populaarset teenust.',
       port: 'Port',
       preferences: 'Eelistused',
       pressPasteShortcutToAddAttachmentFromClipboard:

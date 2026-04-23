@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: "Informazioni sull'app",
-      aboutPlanka_title: 'Informazioni su PLANKA',
+      aboutPlanka_title: 'Informazioni su Marks Plan',
       accessToken: 'Token di accesso',
       account: 'Account',
       actions: 'Azioni',
@@ -145,8 +145,8 @@ export default {
       customFieldGroups_title: 'Campi personalizzati',
       customField_title: 'Campo personalizzato',
       customFields_title: 'Campi personalizzati',
-      discoverPlankaPro: '✨ Più funzionalità per le tue bacheche: Scopri PLANKA Pro',
-      discoverPlankaPro_title: 'Scopri PLANKA Pro',
+      discoverPlankaPro: '✨ Più funzionalità per le tue bacheche: Scopri Marks Plan Pro',
+      discoverPlankaPro_title: 'Scopri Marks Plan Pro',
       upgradeTeamToPro_title: 'Aggiorna il team a Pro',
       proFeatureCalendar: '✨ Vista calendario per le tue bacheche',
       proFeatureRecurringCards: '✨ Schede ricorrenti e automazione',
@@ -276,7 +276,7 @@ export default {
       passwordIsSet: 'Password impostata',
       phone: 'Telefono',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA utilizza <1><0>Apprise</0></1> per inviare notifiche a oltre 100 servizi popolari.',
+        'Marks Plan utilizza <1><0>Apprise</0></1> per inviare notifiche a oltre 100 servizi popolari.',
       port: 'Porta',
       preferences: 'Preferenze',
       pressPasteShortcutToAddAttachmentFromClipboard:

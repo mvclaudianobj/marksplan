@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Σχετικά με την εφαρμογή',
-      aboutPlanka_title: 'Σχετικά με το PLANKA',
+      aboutPlanka_title: 'Σχετικά με το Marks Plan',
       accessToken: 'Διακριτικό πρόσβασης',
       account: 'Λογαριασμός',
       actions: 'Ενέργειες',
@@ -158,8 +158,8 @@ export default {
       customField_title: 'Προσαρμοσμένο πεδίο',
       customFields_title: 'Προσαρμοσμένα πεδία',
       discoverPlankaPro:
-        '✨ Περισσότερες λειτουργίες για τους πίνακές σας: Ανακαλύψτε το PLANKA Pro',
-      discoverPlankaPro_title: 'Ανακαλύψτε το PLANKA Pro',
+        '✨ Περισσότερες λειτουργίες για τους πίνακές σας: Ανακαλύψτε το Marks Plan Pro',
+      discoverPlankaPro_title: 'Ανακαλύψτε το Marks Plan Pro',
       upgradeTeamToPro_title: 'Αναβαθμίστε την ομάδα σε Pro',
       proFeatureCalendar: '✨ Προβολή ημερολογίου για τους πίνακές σας',
       proFeatureRecurringCards: '✨ Επαναλαμβανόμενες κάρτες και αυτοματισμός',
@@ -289,7 +289,7 @@ export default {
       passwordIsSet: 'Ο κωδικός πρόσβασης έχει οριστεί',
       phone: 'Τηλέφωνο',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'Το PLANKA χρησιμοποιεί το <1><0>Apprise</0></1> για να στέλνει ειδοποιήσεις σε πάνω από 100 δημοφιλείς υπηρεσίες.',
+        'Το Marks Plan χρησιμοποιεί το <1><0>Apprise</0></1> για να στέλνει ειδοποιήσεις σε πάνω από 100 δημοφιλείς υπηρεσίες.',
       port: 'Θύρα',
       preferences: 'Προτιμήσεις',
       pressPasteShortcutToAddAttachmentFromClipboard:

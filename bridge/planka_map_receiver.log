@@ -1,0 +1,42 @@
+Traceback (most recent call last):
+  File "/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/bridge/planka_map_receiver.py", line 176, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/bridge/planka_map_receiver.py", line 158, in main
+    server = HTTPServer((host, port), Handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.12/socketserver.py", line 473, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/bridge/planka_map_receiver.py", line 176, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/bridge/planka_map_receiver.py", line 158, in main
+    server = HTTPServer((host, port), Handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.12/socketserver.py", line 473, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/bridge/planka_map_receiver.py", line 190, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/bridge/planka_map_receiver.py", line 172, in main
+    server = HTTPServer((host, port), Handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.12/socketserver.py", line 473, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use

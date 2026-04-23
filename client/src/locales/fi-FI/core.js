@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Tietoa sovelluksesta',
-      aboutPlanka_title: 'Tietoa PLANKAsta',
+      aboutPlanka_title: 'Tietoa Marks Plansta',
       accessToken: 'Käyttöoikeustunnus',
       account: 'Tili',
       actions: 'Toiminnot',
@@ -140,8 +140,8 @@ export default {
       customFieldGroups_title: 'Mukautettujen kenttien ryhmät',
       customField_title: 'Mukautettu kenttä',
       customFields_title: 'Mukautetut kentät',
-      discoverPlankaPro: '✨ Lisää ominaisuuksia tauluillesi: Tutustu PLANKA Pro:hon',
-      discoverPlankaPro_title: 'Tutustu PLANKA Pro:hon',
+      discoverPlankaPro: '✨ Lisää ominaisuuksia tauluillesi: Tutustu Marks Plan Pro:hon',
+      discoverPlankaPro_title: 'Tutustu Marks Plan Pro:hon',
       upgradeTeamToPro_title: 'Päivitä tiimi Pro-versioon',
       proFeatureCalendar: '✨ Kalenterinäkymä tauluillesi',
       proFeatureRecurringCards: '✨ Toistuvat kortit ja automaatio',
@@ -271,7 +271,7 @@ export default {
       passwordIsSet: 'Salasana on asetettu',
       phone: 'Puhelin',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA käyttää <1><0>Apprise</0></1> lähettääkseen ilmoituksia yli 100 suosittuun palveluun.',
+        'Marks Plan käyttää <1><0>Apprise</0></1> lähettääkseen ilmoituksia yli 100 suosittuun palveluun.',
       port: 'Portti',
       preferences: 'Asetukset',
       pressPasteShortcutToAddAttachmentFromClipboard:

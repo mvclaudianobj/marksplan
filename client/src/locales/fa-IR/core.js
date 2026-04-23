@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'درباره برنامه',
-      aboutPlanka_title: 'درباره PLANKA',
+      aboutPlanka_title: 'درباره Marks Plan',
       accessToken: 'رمز دسترسی',
       account: 'حساب کاربری',
       actions: 'اقدامات',
@@ -147,8 +147,8 @@ export default {
       customFieldGroups_title: 'گروه‌های فیلد سفارشی',
       customField_title: 'فیلد سفارشی',
       customFields_title: 'فیلدهای سفارشی',
-      discoverPlankaPro: '✨ ویژگی‌های بیشتر برای تابلوهای شما: PLANKA Pro را کشف کنید',
-      discoverPlankaPro_title: 'PLANKA Pro را کشف کنید',
+      discoverPlankaPro: '✨ ویژگی‌های بیشتر برای تابلوهای شما: Marks Plan Pro را کشف کنید',
+      discoverPlankaPro_title: 'Marks Plan Pro را کشف کنید',
       upgradeTeamToPro_title: 'ارتقای تیم به Pro',
       proFeatureCalendar: '✨ نمای تقویم برای تابلوهای شما',
       proFeatureRecurringCards: '✨ کارت‌های تکرارشونده و خودکارسازی',

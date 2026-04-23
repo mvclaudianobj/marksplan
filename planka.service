@@ -1,0 +1,17 @@
+[Unit]
+Description=Planka wrapper do ecosystem marks3
+After=docker.service network-online.target
+Requires=docker.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+WorkingDirectory=/www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka
+ExecStart=/usr/bin/env bash /www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/service.sh start
+ExecStop=/usr/bin/env bash /www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/service.sh stop
+ExecReload=/usr/bin/env bash /www/wwwroot/marks.ia.br/marks/ecosystem/systems/planka/service.sh restart
+TimeoutStartSec=180
+TimeoutStopSec=180
+
+[Install]
+WantedBy=multi-user.target

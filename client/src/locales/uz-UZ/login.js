@@ -14,7 +14,7 @@ export default {
       or: 'Yoki',
       pageNotFound_title: 'Sahifa topilmadi',
       password: 'Parol',
-      poweredByPlanka: 'PLANKA tomonidan quvvatlanadi',
+      poweredByPlanka: 'Marks Plan tomonidan quvvatlanadi',
       serverConnectionFailed: "Serverga bog'lanish xatosi",
       unknownError: "Noma'lum xatolik, qaytadan urinib ko'ring",
       useSingleSignOn: 'Yagona kirish tizimidan foydalaning',

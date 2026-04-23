@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Om appen',
-      aboutPlanka_title: 'Om PLANKA',
+      aboutPlanka_title: 'Om Marks Plan',
       accessToken: 'Adgangstoken',
       account: 'Konto',
       actions: 'Handlinger',
@@ -144,8 +144,8 @@ export default {
       customFieldGroups_title: 'Brugerdefinerede feltgrupper',
       customField_title: 'Brugerdefineret felt',
       customFields_title: 'Brugerdefinerede felter',
-      discoverPlankaPro: '✨ Flere funktioner til dine boards: Opdag PLANKA Pro',
-      discoverPlankaPro_title: 'Opdag PLANKA Pro',
+      discoverPlankaPro: '✨ Flere funktioner til dine boards: Opdag Marks Plan Pro',
+      discoverPlankaPro_title: 'Opdag Marks Plan Pro',
       upgradeTeamToPro_title: 'Opgrader team til Pro',
       proFeatureCalendar: '✨ Kalendervisning til dine boards',
       proFeatureRecurringCards: '✨ Tilbagevendende kort og automatisering',
@@ -275,7 +275,7 @@ export default {
       passwordIsSet: 'Adgangskode er indstillet',
       phone: 'Telefon',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA bruger <1><0>Apprise</0></1> til at sende notifikationer til over 100 populære tjenester.',
+        'Marks Plan bruger <1><0>Apprise</0></1> til at sende notifikationer til over 100 populære tjenester.',
       port: 'Port',
       preferences: 'Præferencer',
       pressPasteShortcutToAddAttachmentFromClipboard:

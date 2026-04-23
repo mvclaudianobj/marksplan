@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Over de app',
-      aboutPlanka_title: 'Over PLANKA',
+      aboutPlanka_title: 'Over Marks Plan',
       accessToken: 'Toegangstoken',
       account: 'Account',
       actions: 'Acties',
@@ -144,8 +144,8 @@ export default {
       customFieldGroups_title: 'Aangepaste veldgroepen',
       customField_title: 'Aangepast veld',
       customFields_title: 'Aangepaste velden',
-      discoverPlankaPro: '✨ Meer functies voor uw borden: Ontdek PLANKA Pro',
-      discoverPlankaPro_title: 'Ontdek PLANKA Pro',
+      discoverPlankaPro: '✨ Meer functies voor uw borden: Ontdek Marks Plan Pro',
+      discoverPlankaPro_title: 'Ontdek Marks Plan Pro',
       upgradeTeamToPro_title: 'Team upgraden naar Pro',
       proFeatureCalendar: '✨ Kalenderweergave voor uw borden',
       proFeatureRecurringCards: '✨ Terugkerende kaarten en automatisering',
@@ -275,7 +275,7 @@ export default {
       passwordIsSet: 'Wachtwoord is ingesteld',
       phone: 'Telefoon',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA gebruikt <1><0>Apprise</0></1> om meldingen naar meer dan 100 populaire services te sturen.',
+        'Marks Plan gebruikt <1><0>Apprise</0></1> om meldingen naar meer dan 100 populaire services te sturen.',
       port: 'Poort',
       preferences: 'Voorkeuren',
       pressPasteShortcutToAddAttachmentFromClipboard:

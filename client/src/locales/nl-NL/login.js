@@ -14,7 +14,7 @@ export default {
       or: 'Of',
       pageNotFound_title: 'Pagina niet gevonden',
       password: 'Wachtwoord',
-      poweredByPlanka: 'Mogelijk gemaakt door <1>PLANKA</1>',
+      poweredByPlanka: 'Mogelijk gemaakt door <1>Marks Plan</1>',
       serverConnectionFailed: 'Verbinding met de server mislukt',
       unknownError: 'Onbekende fout, probeer het later opnieuw',
       useSingleSignOn: 'Gebruik single sign-on',
